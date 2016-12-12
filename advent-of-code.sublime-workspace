@@ -1,0 +1,305 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "day1/main.pony",
+			"settings":
+			{
+				"buffer_size": 4677,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "// Day 2.\n// http://adventofcode.com/2016/day/2\n\n",
+			"file": "day2/main.pony",
+			"file_size": 9,
+			"file_write_time": 131257441821663564,
+			"settings":
+			{
+				"buffer_size": 49,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "// Day 2."
+			}
+		}
+	],
+	"build_system": "Packages/User/ponyc-docker.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Pony Language/Pony.sublime-build",
+					""
+				],
+				[
+					"Packages/User/ponyc-docker.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/ponyc-docker.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/gebruiker/Documents/dev-projects/advent-of-code/day2",
+		"/C/Users/gebruiker/Documents/dev-projects/advent-of-code/ponyc/packages"
+	],
+	"file_history":
+	[
+		"/C/Users/Public/PoolParty/config/auth.xml",
+		"/C/Program Files/Apache Software Foundation/Tomcat 7.0/conf/tomcat-users.xml",
+		"/C/Program Files/Apache Software Foundation/Tomcat 7.0/conf/web.xml",
+		"/C/unifiedviews/log/backend.log",
+		"/C/unifiedviews/config/config.properties",
+		"/C/stardog-4.0.5/logs/commons-daemon.2016-11-29.log",
+		"/C/stardog-4.0.5/logs/stderr.log",
+		"/C/stardog-4.0.5/bin/install-service.bat",
+		"/C/Users/Public/PoolParty/config/auth.xml.bak.xml",
+		"/C/stardog-4.0.5/logs/stdout.log",
+		"/C/stardog-4.0.5/logs/StarDog.2016-11-29.log",
+		"/C/stardog-4.0.5/stardog.log",
+		"/C/stardog-4.0.5/bin/uninstall-service.bat",
+		"/C/stardog-4.0.5/bin/stop-service.bat",
+		"/C/PoolParty/Data/config/poolparty.properties",
+		"/C/Users/gebruiker/Downloads/holodeckb2b-distribution-2.1.1-full (1)/holodeck-b2b-2.1.1/bin/startServer.bat",
+		"/C/holodeck-b2b-2.1.1/examples/msgs/ex-mmd-pull-ut.accepted",
+		"/C/Users/gebruiker/Downloads/holodeckb2b-distribution-2.1.1-full/holodeck-b2b-2.1.1/conf/axis2.xml",
+		"/C/Users/gebruiker/Downloads/holodeckb2b-distribution-2.1.1-full/holodeck-b2b-2.1.1/bin/setenv.sh",
+		"/C/Users/gebruiker/Downloads/holodeckb2b-distribution-2.1.1-full/holodeck-b2b-2.1.1/bin/startServer.bat",
+		"/C/Users/gebruiker/Downloads/holodeckb2b-distribution-2.1.1-full/holodeck-b2b-2.1.1/conf/log4j2.xml",
+		"/C/Users/gebruiker/Documents/dev-projects/Holodeck-B2B/modules/holodeckb2b-core/src/main/java/org/holodeckb2b/ebms3/handlers/inflow/HolodeckB2BDispatcher.java",
+		"/C/Users/gebruiker/Documents/dev-projects/Holodeck-B2B/pom.xml",
+		"/D/CBS/Datameer/PoolParty/PoolParty license.key"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"AXIS2_CLASSPATH",
+			"!AXIS2_CLASS_PATH!",
+			"log",
+			"holodeckb2b",
+			"holode",
+			"holodeck"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "day1/main.pony",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Pony Language/pony.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "day2/main.pony",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// Day 2.",
+							"syntax": "Packages/Pony Language/pony.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 334.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "day1/adventofcode-day1.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
